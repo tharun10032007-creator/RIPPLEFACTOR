@@ -6,7 +6,7 @@
 
 ### Submitted By
 
-**R.K. Vageesh Ragav**
+**Tharun T**
 B.E. Electronics and Communication Engineering (ECE)
 Saveetha Engineering College, Chennai
 
